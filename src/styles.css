@@ -41,9 +41,12 @@
 } */
 
 .addPadding{
-    padding: 20px;
+    padding: 10px;
 }
 
+.bi-circle-fill{
+    margin: 5px;
+}
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
