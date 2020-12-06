@@ -57,3 +57,10 @@
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
+.shape-img{
+    position: absolute;
+    left: 0;
+    bottom: -18px;
+    width:100%;
+}
