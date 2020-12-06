@@ -17,3 +17,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $('#fsd').hide().delay(2500).fadeIn(1500)
 })
+
+$(document).ready(function(){
+    $('#workType').hide().delay(3500).fadeIn(1500)
+})
