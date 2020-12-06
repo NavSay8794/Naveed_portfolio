@@ -3,9 +3,5 @@ $(window).scroll(function(){
 })
 
 $(document).ready(function(){
-    $('#animate').hide().fadeIn(function(){ 
-        $('#animate').animate({
-            left: "80px"
-        }, 500); 
-    },1500).css('left' ,'0');
+    $('#animate').hide().fadeIn(1500)
 })
