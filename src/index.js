@@ -3,5 +3,5 @@ $(window).scroll(function(){
 })
 
 $(document).ready(function(){
-    $('#animate').hide().fadeIn(2000)
+    $("#ID").animate({left:0, opacity:1},2000)
 })
