@@ -7,7 +7,7 @@
 }
 
 .h-txt{
-    padding: 18% 2%;
+    padding: 15% 2%;
 }
 
 .bg-light{
@@ -61,6 +61,6 @@
 .shape-img{
     position: absolute;
     left: 0;
-    bottom: -10px;
+    bottom: -18px;
     width:100%;
 }
