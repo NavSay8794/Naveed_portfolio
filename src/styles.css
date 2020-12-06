@@ -7,17 +7,14 @@
 }
 
 .h-txt{
-    padding: 10% 2%;
+    padding: 15% 2%;
 }
 
 .bg-light{
     background-color: transparent !important;
 }
 
-.bg-light.scrolled{
- background-color: white !important;
- color: black !important;
-}
+
 
 .brander{
     padding-left: 30px;
@@ -36,4 +33,9 @@
 
 .row > div{
     border: solid 1px white
+}
+
+.bg-light.scrolled{
+    background-color: white !important;
+    color: black !important;
 }
