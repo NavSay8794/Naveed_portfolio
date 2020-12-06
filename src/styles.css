@@ -5,6 +5,7 @@
 #hero{
     background-image: url(../assets/image1.jpg);
     background-size: cover;
+    opacity:.5
 }
 
 .h-txt{
