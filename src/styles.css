@@ -3,9 +3,7 @@
 }
 
 #hero{
-    background-image: url(../assets/image4-bg.png);
-    background-size: cover;
-    opacity: 1;
+    background-color: black;
 }
 
 .h-txt{
