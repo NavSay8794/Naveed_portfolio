@@ -10,3 +10,7 @@
 .h-txt{
     padding: 30% 2%;
 }
+
+.bg-dark{
+    background-color: transparent !important;
+}
