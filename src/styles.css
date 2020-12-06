@@ -46,6 +46,7 @@
 
 .bi-circle-fill{
     margin: 5px;
+    color: yellow !important;
 }
 @keyframes fadein {
     from { opacity: 0; }
