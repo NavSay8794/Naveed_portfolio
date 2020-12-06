@@ -39,3 +39,8 @@
     animation-duration: 0.8s;
     animation-name: fadeIn;
 }
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
