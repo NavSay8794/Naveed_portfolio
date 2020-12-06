@@ -22,5 +22,8 @@
 
 .navbar{
     height: 4rem !important;
-    border: 1px solid black;
+}
+
+.nav-item{
+    font-weight: 600;
 }
