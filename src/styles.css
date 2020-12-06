@@ -40,6 +40,10 @@
     animation-name: fadeIn;
 } */
 
+.addPadding{
+    padding: 20px;
+}
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
