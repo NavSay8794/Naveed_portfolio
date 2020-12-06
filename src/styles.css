@@ -33,3 +33,9 @@
 .bg-light.scrolled{
     background-color: black !important;
 }
+
+.anime{
+    visibility: visible;
+    animation-duration: 0.8s;
+    animation-name: fadeInLeft;
+}
