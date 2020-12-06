@@ -3,5 +3,5 @@ $(window).scroll(function(){
 })
 
 $(document).ready(function(){
-    $('#animate').hide().fadeIn()
+    $('#animate').hide().fadeIn(2000)
 })
