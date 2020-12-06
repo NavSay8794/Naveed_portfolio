@@ -37,5 +37,5 @@
 .anime{
     visibility: visible;
     animation-duration: 0.8s;
-    animation-name: fadeInLeft;
+    animation-name: fadeIn;
 }
