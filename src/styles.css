@@ -1,3 +1,5 @@
-h1{
-    color: red;
+#hero{
+    background-image: url(../assets/IMG_20191124_134130.jpg);
+    background-size: cover;
 }
+
