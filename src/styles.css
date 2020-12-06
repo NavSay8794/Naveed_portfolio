@@ -14,8 +14,6 @@
     background-color: transparent !important;
 }
 
-
-
 .brander{
     padding-left: 30px;
     font-size: 1.5rem;
@@ -31,9 +29,6 @@
     font-weight: 600;
 }
 
-.row > div{
-    border: solid 1px white
-}
 
 .bg-light.scrolled{
     background-color: black !important;
