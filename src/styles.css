@@ -45,7 +45,7 @@
     padding: 10px;
 }
 
-.bi-circle-fill, .bi-code-slash{
+.bi-dot, .bi-code-slash{
     margin: 5px;
     color: yellow !important;
 }
