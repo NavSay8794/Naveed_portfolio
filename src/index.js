@@ -3,5 +3,5 @@ $(window).scroll(function(){
 })
 
 $(document).ready(function(){
-    $("#ID").animate({left:0, opacity:1},2000)
+    $("#animate").animate({left:0, opacity:1},2000)
 })
