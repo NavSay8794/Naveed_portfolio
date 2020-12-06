@@ -3,5 +3,9 @@ $(window).scroll(function(){
 })
 
 $(document).ready(function(){
-    $("#animate").hide().show("slide", { direction: "left" }, 1500);
+    $('#animate').hide().fadeIn(function(){ 
+        $('#animate').animate({
+            left: "80px"
+        }, 500); 
+    },1500).css('left' ,'0');
 })
