@@ -34,11 +34,11 @@
     background-color: black !important;
 }
 
-.anime{
+/* .anime{
     visibility: visible;
-    animation-duration: 0.8s;
+    animation-duration: 1s;
     animation-name: fadeIn;
-}
+} */
 
 @keyframes fadein {
     from { opacity: 0; }

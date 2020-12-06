@@ -3,5 +3,5 @@ $(window).scroll(function(){
 })
 
 $(document).ready(function(){
-    $('#animate').addClass("anime")
+    $('#animate').fadeIn()
 })
