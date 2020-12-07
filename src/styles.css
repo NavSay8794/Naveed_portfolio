@@ -2,6 +2,10 @@
     padding: 0 !important;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 #hero{
     background-color: black;
 }
