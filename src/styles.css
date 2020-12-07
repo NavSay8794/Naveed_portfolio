@@ -103,8 +103,15 @@
 
 #aboutpara{
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: rgba(80, 77, 77, 0.849);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.secHeading{
+    text-align: center;
+    font-weight: 600;
+    color:rgba(255, 255, 0, 0.794);
     font-family: 'Montserrat', sans-serif;
 }
 
