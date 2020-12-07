@@ -138,4 +138,9 @@
         font-size: 1.7rem;
     }
 
+    #resumeButton, #aboutButton{
+        text-align: center;
+        margin:5px;
+    }
+
 }
