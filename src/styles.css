@@ -130,6 +130,7 @@
 
     #resumeButton, #aboutButton{
         text-align: center!important;
+        margin:2px;
     }
 }
 
