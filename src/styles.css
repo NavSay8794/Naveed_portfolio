@@ -83,6 +83,11 @@
     transition: all 1s;
 }
 
+#about-img:hover{
+    transform: scale(1);
+    filter: grayscale(0);
+}
+
 #hello, #fsd {
     font-weight: 700;
     font-size: 1.3rem;
