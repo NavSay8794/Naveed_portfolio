@@ -130,7 +130,6 @@
 
     #resumeButton, #aboutButton{
         text-align: center!important;
-        margin:5px;
     }
 }
 
@@ -155,6 +154,11 @@
     
     #intro{
         font-size: 1.7rem;
+    }
+
+    #resumeButton, #aboutButton{
+        text-align: center!important;
+        margin: 5px;
     }
 
 }
