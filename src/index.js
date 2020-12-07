@@ -11,13 +11,20 @@ $(document).ready(function(){
 })
 
 $(document).ready(function(){
-    $('#intro').hide().delay(1500).fadeIn(1500)
+    $('#intro').hide().delay(1000).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#fsd').hide().delay(2500).fadeIn(1500)
+    $('#fsd').hide().delay(1500).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#workType').hide().delay(3500).fadeIn(1500)
+    $('#workType').hide().delay(2000).fadeIn(1500)
+})
+
+$(document).ready(function(){
+    $('#resumeButton').hide().delay(2500).fadeIn(1500)
+})
+$(document).ready(function(){
+    $('#aboutButton').hide().delay(3000).fadeIn(1500)
 })
