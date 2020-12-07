@@ -94,7 +94,10 @@
 
     .navbar-nav{
         background-color: white !important; 
-        color: black !important;
+    }
+
+    .nav-item{
+        color: black!important;
     }
 
 }
