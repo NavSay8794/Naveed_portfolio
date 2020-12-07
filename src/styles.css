@@ -68,3 +68,9 @@ body{
     bottom: -18px;
     width:100%;
 }
+
+
+#hello{
+    font-weight: 700;
+    color: grey;
+}
