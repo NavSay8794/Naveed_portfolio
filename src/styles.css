@@ -95,6 +95,16 @@
         color: yellow!important;
         /* border: 1px solid rgba(141, 137, 137, 0.52); */
     }
+
+    #hello, #fsd {
+        font-size: 1rem;
+    }
+    
+    #intro{
+        font-size: 2.3rem;
+    }
+
+
 }
 
 @media only screen and (max-width: 347px){
@@ -103,13 +113,12 @@
         font-size: 1rem;
         font-weight: 700;
     }
-
-    /* .navbar-nav{
-        background-color: white !important; 
+    #hello, #fsd {
+        font-size: 1rem;
     }
-
-    .nav-link{
-        color: black!important;
-    } */
+    
+    #intro{
+        font-size: 1.7rem;
+    }
 
 }
