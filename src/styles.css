@@ -101,6 +101,12 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+#aboutpara{
+    font-weight: 600;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
 @media only screen and (max-width: 991px){
     .navbar-nav{
         background-color: rgba(39, 37, 37, 0.7) !important; 
