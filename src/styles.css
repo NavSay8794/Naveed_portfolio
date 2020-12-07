@@ -86,13 +86,13 @@
 
 @media only screen and (max-width: 991px){
     .navbar-nav{
-        background-color: gray !important; 
+        background-color: black !important; 
         text-align: center;
     }
 
     .nav-link{
-        color: black!important;
-        border: 1px solid grey;
+        color: yellow!important;
+        border: 1px solid white;
     }
 }
 
