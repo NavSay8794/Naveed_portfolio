@@ -15,16 +15,16 @@ $(document).ready(function(){
 })
 
 $(document).ready(function(){
-    $('#fsd').hide().delay(2000).fadeIn(1500)
+    $('#fsd').hide().delay(2500).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#workType').hide().delay(2500).fadeIn(1500)
+    $('#workType').hide().delay(3000).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#resumeButton').hide().delay(3500).fadeIn(1500)
+    $('#resumeButton').hide().delay(4000).fadeIn(1500)
 })
 $(document).ready(function(){
-    $('#aboutButton').hide().delay(4000).fadeIn(1500)
+    $('#aboutButton').hide().delay(4500).fadeIn(1500)
 })
