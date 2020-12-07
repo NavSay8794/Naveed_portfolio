@@ -98,13 +98,13 @@
 #intro{
     font-weight: 800;
     font-size: 3rem;
-    color: yellow;
     font-family: 'Montserrat', sans-serif;
 }
 
 #aboutpara{
     font-weight: 600;
     font-size: 1.1rem;
+    color: yellow;
     font-family: 'Montserrat', sans-serif;
 }
 
