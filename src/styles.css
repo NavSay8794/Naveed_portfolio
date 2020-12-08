@@ -19,6 +19,11 @@
     padding: 11% 2% 10% 2%;
     border: 1px solid black;
 }
+
+#social{
+    padding:5% 2% 5% 2%;
+    background-color: rgba(49, 48, 48, 0.849);
+}
 .bg-light{
     background-color: transparent !important;
 }
@@ -56,7 +61,7 @@
     padding: 5px;
 }
 
-.bi-dot, .bi-code-slash ,.bi-envelope-fill,.bi-house-fill , .fa-linkedin{
+.bi-dot, .bi-code-slash ,.bi-envelope-fill,.bi-house-fill , .fa-skype{
     margin: 5px;
     color: yellow !important;
 }
