@@ -122,6 +122,11 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+#contact{
+    background-color: rgb(253, 228, 0);
+    padding-top: 4%;
+}
+
 .suggestions{
     font-weight: 700;
     color:rgba(80, 77, 77, 0.849);
