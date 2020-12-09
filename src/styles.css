@@ -86,14 +86,14 @@
     width:100%;
 }
 
-.about-img{
+#about-img, #camera, #basketball, #travel, #trekking{
     border-radius: 10px;
     transform: scale(0.95);
     filter: grayscale(1);
     transition: all 1s;
 }
 
-.about-img:hover{
+#about-img:hover ,#camera:hover, #basketball:hover, #travel:hover, #trekking:hover{
     transform: scale(1);
     filter: grayscale(0);
 }
