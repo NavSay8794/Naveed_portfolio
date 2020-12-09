@@ -86,7 +86,7 @@
     width:100%;
 }
 
-#about-img{
+.about-img{
     border-radius: 10px;
     transform: scale(0.95);
     filter: grayscale(1);
