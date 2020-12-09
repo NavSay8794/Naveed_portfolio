@@ -119,10 +119,10 @@
 }
 
 .secHeading, .card-text{
-    text-align: center;
-    font-weight: 600;
-    color:rgba(49, 48, 48, 0.849);
-    font-family: 'Montserrat', sans-serif;
+    text-align: center!important;
+    font-weight: 600!important;
+    color:rgba(49, 48, 48, 0.849)!important;
+    font-family: 'Montserrat', sans-serif!important;
 }
 
 .contactHeading{
