@@ -165,6 +165,11 @@
         text-align: center;
     }
 
+    .addInnerspace{
+        margin-left: 25px;
+        margin-top: 5px;
+    }
+
     .nav-link{
         color: yellow!important;
         /* border: 1px solid rgba(141, 137, 137, 0.52); */
