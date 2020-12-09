@@ -66,8 +66,8 @@
     padding: 5px;
 }
 
-.addMargin{
-    margin: 2px;
+.addInnerPadding{
+    padding: 2px;
 }
 
 .bi-dot, .bi-code-slash ,.bi-envelope-fill,.bi-house-fill , .fa-skype{
