@@ -66,6 +66,10 @@
     padding: 5px;
 }
 
+.addMargin{
+    margin: 3px;
+}
+
 .bi-dot, .bi-code-slash ,.bi-envelope-fill,.bi-house-fill , .fa-skype{
     margin: 5px;
     color: yellow !important;
@@ -118,13 +122,19 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-.secHeading, .card-text{
+.secHeading{
+    text-align: center;
+    font-weight: 600;
+    color:rgba(49, 48, 48, 0.849);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-text{
     text-align: center!important;
     font-weight: 600!important;
     color:rgba(49, 48, 48, 0.849)!important;
     font-family: 'Montserrat', sans-serif!important;
 }
-
 .contactHeading{
     text-align: left;
     font-weight: 700;
