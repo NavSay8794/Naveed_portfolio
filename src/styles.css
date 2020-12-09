@@ -16,7 +16,7 @@
 }
 
 .h1-txt{
-    padding: 11% 2% 10% 2%;
+    padding: 10% 2% 8% 2%;
     border: 1px solid black;
 }
 
@@ -67,7 +67,7 @@
 }
 
 .addMargin{
-    margin: 3px;
+    margin: 2px;
 }
 
 .bi-dot, .bi-code-slash ,.bi-envelope-fill,.bi-house-fill , .fa-skype{
