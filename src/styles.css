@@ -139,6 +139,10 @@
 #hobbies{
     background-color: rgba(49, 48, 48, 0.849);
 }
+
+.imagescale{
+    filter: grayscale(1);
+}
 .suggestions{
     font-weight: 700;
     color:rgba(49, 48, 48, 0.849);
