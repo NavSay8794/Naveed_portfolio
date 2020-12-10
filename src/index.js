@@ -24,8 +24,34 @@ $(document).ready(function(){
 })
 
 $(document).ready(function(){
-    $('#resumeButton').hide().delay(4000).fadeIn(1500)
+    $('#resumeButton').hide().delay(3500).fadeIn(1500)
 })
+
 $(document).ready(function(){
-    $('#aboutButton').hide().delay(4500).fadeIn(1500)
+    $('#aboutButton').hide().delay(4000).fadeIn(1500)
+})
+
+// causing delay of the rest of the sections
+$(document).ready(function(){
+    $('#about').hide().delay(5000).fadeIn(1500)
+})
+
+$(document).ready(function(){
+    $('#skills').hide().delay(5500).fadeIn(1500)
+})
+
+$(document).ready(function(){
+    $('#hobbies').hide().delay(5500).fadeIn(1500)
+})
+
+$(document).ready(function(){
+    $('#portfolio').hide().delay(5500).fadeIn(1500)
+})
+
+$(document).ready(function(){
+    $('#contact').hide().delay(5500).fadeIn(1500)
+})
+
+$(document).ready(function(){
+    $('#social').hide().delay(5500).fadeIn(1500)
 })
