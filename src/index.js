@@ -2,16 +2,6 @@ $(window).scroll(function(){
     $('nav').toggleClass('scrolled' , $(this).scrollTop() >20)
 })
 
-$(window).resize(function () {
-    var viewportWidth = $(window).width();
-    if (viewportWidth > 768) {
-            $(".c1").addClass("order-sm-1");
-            $(".c4").addClass("order-sm-2");
-            $(".c3").addClass("order-sm-6");
-            $(".c2").addClass("order-sm-7");
-            $(".c5").addClass("order-sm-12");
-    }
-});
 
 $(document).ready(function(){
     $('#animate').hide().fadeIn(1500)
@@ -43,25 +33,25 @@ $(document).ready(function(){
 
 // causing delay of the rest of the sections
 $(document).ready(function(){
-    $('#about').hide().delay(5000).fadeIn(1500)
+    $('#about').hide().delay(500).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#skills').hide().delay(5500).fadeIn(1500)
+    $('#skills').hide().delay(500).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#hobbies').hide().delay(5500).fadeIn(1500)
+    $('#hobbies').hide().delay(500).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#portfolio').hide().delay(5500).fadeIn(1500)
+    $('#portfolio').hide().delay(500).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#contact').hide().delay(5500).fadeIn(1500)
+    $('#contact').hide().delay(500).fadeIn(1500)
 })
 
 $(document).ready(function(){
-    $('#social').hide().delay(5500).fadeIn(1500)
+    $('#social').hide().delay(500).fadeIn(1500)
 })
