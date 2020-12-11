@@ -2,6 +2,16 @@ $(window).scroll(function(){
     $('nav').toggleClass('scrolled' , $(this).scrollTop() >20)
 })
 
+$(window).resize(function () {
+    var viewportWidth = $(window).width();
+    if (viewportWidth < 768) {
+            $(".c1").addClass("order-sm-1");
+            $(".c4").addClass("order-sm-2");
+            $(".c3").addClass("order-sm-6");
+            $(".c2").addClass("order-sm-7");
+            $(".c5").addClass("order-sm-12");
+    }
+});
 
 $(document).ready(function(){
     $('#animate').hide().fadeIn(1500)
