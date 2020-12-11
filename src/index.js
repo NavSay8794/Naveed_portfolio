@@ -4,7 +4,7 @@ $(window).scroll(function(){
 
 $(window).resize(function () {
     var viewportWidth = $(window).width();
-    if (viewportWidth < 768) {
+    if (viewportWidth > 768) {
             $(".c1").addClass("order-sm-1");
             $(".c4").addClass("order-sm-2");
             $(".c3").addClass("order-sm-6");
