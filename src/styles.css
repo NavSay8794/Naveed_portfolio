@@ -70,13 +70,13 @@ html{
     margin-top: 2px;
 }
 
-.bi-dot, .bi-code-slash ,.bi-envelope-fill,.bi-house-fill , .fa-skype{
+.bi-dot, .bi-code-slash{
     margin: 5px;
-    color: yellow !important;
+    color: #f8c000 !important;
 }
 
 #workTyps{
-    color: yellow;
+    color: #f8c000;
 }
 @keyframes fadein {
     from { opacity: 0; }
