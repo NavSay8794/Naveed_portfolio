@@ -142,13 +142,14 @@ html{
     font-family: 'Montserrat', sans-serif;
 }
 
-#contact{
+#contact, #skills{
     background-color: #f8c000;
 }
 
-#skills{
-   background-color: #f8c000;
+#about, #portfolio{
+    background-color: rgba(197, 178, 178, 0.513);;
 }
+
 #hobbies{
     background-color: rgba(49, 48, 48, 0.849);
 }
